@@ -23,8 +23,9 @@ The **Summary Report** provides a high-level view of key metrics:
 - **Good vs. Bad Loan Issuance** – A breakdown of loans issued, highlighting the percentage of good and bad loans.
 - **Loan Application Status** – Visualizes the current status of loans (fully paid, charged off, current) to track loan health.
 
-### Summary Report Snapshot
+### Summary & Overview Reports Snapshot
 ![Summary Report](https://github.com/HossamElsrah/Finance-Domain-Project-Excel/blob/main/Screenshot%202024-11-06%20204524.png)
+![Overview Report](https://github.com/HossamElsrah/Finance-Domain-Project-Excel/blob/main/Screenshot%202024-11-06%20204551.png).
 
 ## Overview Report
 The **Overview Report** dives deeper into loan application trends and borrower profiles:
